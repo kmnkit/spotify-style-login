@@ -62,7 +62,6 @@
 				DD5147505C8BA4D748FA2B3E /* Pods-spotify-style-login.debug.xcconfig */,
 				ADE17D15F584BA70862658A8 /* Pods-spotify-style-login.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
